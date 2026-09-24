@@ -1,0 +1,41 @@
+{
+  "root": "/home/dyl216/RoboTwin",
+  "branch": "robotwin_dp",
+  "commit": "8be012e94f2248d522589d1154b22be0cd1d17bc",
+  "git_status": "m XPolicyLab\n M policy/DP/diffusion_policy/config/robot_dp_14.yaml\n M policy/DP/diffusion_policy/workspace/robotworkspace.py\n M policy/DP/train.sh\n?? --checkpoint_num\n?? --ckpt_setting\n?? --config\n?? --expert_data_num\n?? --overrides\n?? --seed\n?? --task_config\n?? --task_name\n?? diagnose_dp_failure.py\n?? diagnostics/\n?? policy/DP/0\n?? policy/DP/50\n?? policy/DP/dp_test_demo\n?? policy/DP/place_empty_cup\n?? policy/DP/readme.md\n?? policy/DP/robotwin_dp\n?? policy/DP/training_reports/",
+  "python": "/home/dyl216/anaconda3/envs/robotwin_dp/bin/python",
+  "python_version": "3.10.21 (main, Aug 27 2026, 14:42:07) [GCC 14.3.0]",
+  "conda_env": "robotwin_dp",
+  "cuda_visible_devices": "0",
+  "versions": {
+    "numpy": "1.23.5",
+    "torch": "2.4.1",
+    "torchvision": "0.19.1",
+    "sapien": "3.0.0b1",
+    "mplib": "0.2.1",
+    "toppra": "0.6.10",
+    "diffusers": "0.11.1",
+    "numba": "0.56.4",
+    "zarr": "2.12.0"
+  },
+  "checkpoint": "/home/dyl216/RoboTwin/policy/DP/checkpoints/place_empty_cup-dp_test_demo-50-0/900.ckpt",
+  "checkpoint_size": 1549190124,
+  "checkpoint_mtime": 1789837313.6743674,
+  "arguments": {
+    "root": ".",
+    "checkpoint": 900,
+    "train_seed": 0,
+    "eval_seeds": [
+      100000,
+      100001
+    ],
+    "task_name": "place_empty_cup",
+    "task_config": "dp_test_demo",
+    "ckpt_setting": "dp_test_demo",
+    "expert_data_num": 50,
+    "expected_branch": "robotwin_dp",
+    "worker": false,
+    "case_dir": null,
+    "worker_seed": null
+  }
+}

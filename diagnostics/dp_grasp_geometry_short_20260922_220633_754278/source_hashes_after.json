@@ -1,0 +1,16 @@
+{
+  "script/eval_policy.py": "8b16c766a9c401163418b425e413ebe7f4127d6b132b9c7c4d6b6f8752d57681",
+  "policy/DP/deploy_policy.py": "70ac27d05d5c66d2010f22953f4ae70ce658f73b75959a6b5006cdd75e4faad9",
+  "policy/DP/dp_model.py": "9e4df2d0aa8b0f81ae5f21613c4293951528e1bf8aa7dda1bdad652e653e340d",
+  "policy/DP/diffusion_policy/env_runner/dp_runner.py": "6b5334362e215c6d6fa9fbe584a77c6674da5f8bbc46691b17e8bb5ca53498b0",
+  "envs/_base_task.py": "448f7152b65cb9102217cf5463aa821d72810ca56f63d5a797ec7bd43e23e101",
+  "envs/robot/robot.py": "3dcd80acc8cab489a4c5edb507cc460dab1724be0226b8d5c4c1b218dee605cb",
+  "envs/robot/planner.py": "f1012345542483f4cfbac64880a266b7ee0d4a64362d5ec6fd6985ed9c34b564",
+  "envs/place_empty_cup.py": "424bbd61f990ebfffb283eb152d17103c2a990edd20f68229203a96a2fd4d581",
+  "policy/DP/diffusion_policy/config/robot_dp_14.yaml": "fc14766afd6ea14641d3fc53804312b768f1a838a30d77ea6f45fb6930b4b0da",
+  "policy/DP/diffusion_policy/config/task/default_task_14.yaml": "39d0f443edf21b25ac1d59b48c4b569c991d0a15a8e32cfab0cd1faf177dc9f3",
+  "policy/DP/diffusion_policy/workspace/robotworkspace.py": "eb21542eb399962d054e2ac113132aa13350d5dfd2f377e3da8f5b69f3967d8a",
+  "policy/DP/train.sh": "3bf60c5745014714eea58b9344f9d7b7663d8faabb0c1cbefb699b8f3ff85756",
+  "task_config/dp_test_demo.yml": "6a60d1f370b00179f8ed92801b2fdcf28804bd139e0b9d016bee8a1486450541",
+  "task_config/_eval_step_limit.yml": "41c62bd26184977bae45aee555edd0cc21de5cddf560c2595921fc23a1e3b551"
+}

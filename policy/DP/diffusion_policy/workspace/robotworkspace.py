@@ -62,10 +62,17 @@ class RobotWorkspace(BaseWorkspace):
 
         # resume training
         if cfg.training.resume:
-            lastest_ckpt_path = self.get_checkpoint_path()
+            resume_from = cfg.training.get("resume_from")
+            lastest_ckpt_path = pathlib.Path(resume_from) if resume_from else self.get_checkpoint_path()
+            if resume_from and not lastest_ckpt_path.is_file():
+                raise FileNotFoundError(f"Checkpoint not found: {lastest_ckpt_path}")
             if lastest_ckpt_path.is_file():
                 print(f"Resuming from checkpoint {lastest_ckpt_path}")
-                self.load_checkpoint(path=lastest_ckpt_path)
+                self.load_checkpoint(path=lastest_ckpt_path, map_location="cpu")
+                # Checkpoints are saved at epoch end, before these counters advance.
+                self.epoch += 1
+                self.global_step += 1
+                print(f"Continuing at epoch {self.epoch} (target: {cfg.training.num_epochs})")
 
         # configure dataset
         dataset: BaseImageDataset
@@ -98,6 +105,8 @@ class RobotWorkspace(BaseWorkspace):
         ema: EMAModel = None
         if cfg.training.use_ema:
             ema = hydra.utils.instantiate(cfg.ema, model=self.ema_model)
+            # EMA is updated once per training batch, just like global_step.
+            ema.optimization_step = self.global_step
 
         # configure env
         # env_runner: BaseImageRunner
@@ -146,7 +155,7 @@ class RobotWorkspace(BaseWorkspace):
         log_path = os.path.join(self.output_dir, "logs.json.txt")
 
         with JsonLogger(log_path) as json_logger:
-            for local_epoch_idx in range(cfg.training.num_epochs):
+            for local_epoch_idx in range(self.epoch, cfg.training.num_epochs):
                 step_log = dict()
                 # ========= train for this epoch ==========
                 if cfg.training.freeze_encoder:

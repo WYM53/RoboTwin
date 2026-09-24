@@ -6,6 +6,15 @@ expert_data_num=${3}
 seed=${4}
 action_dim=${5}
 gpu_id=${6}
+resume_checkpoint=${7:-}
+resume_args=()
+if [ -n "$resume_checkpoint" ]; then
+    if [ ! -f "$resume_checkpoint" ]; then
+        echo "Checkpoint not found: $resume_checkpoint" >&2
+        exit 1
+    fi
+    resume_args=(training.resume=True "+training.resume_from=$resume_checkpoint")
+fi
 
 head_camera_type=D435
 
@@ -49,6 +58,7 @@ python train.py --config-name=${config_name}.yaml \
                             logging.mode=${wandb_mode} \
                             setting=${task_config} \
                             expert_data_num=${expert_data_num} \
-                            head_camera_type=$head_camera_type
+                            head_camera_type=$head_camera_type \
+                            "${resume_args[@]}"
                             # checkpoint.save_ckpt=${save_ckpt}
                             # hydra.run.dir=${run_dir} \

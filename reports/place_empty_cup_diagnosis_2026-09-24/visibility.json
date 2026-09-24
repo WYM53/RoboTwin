@@ -1,0 +1,1216 @@
+{
+  "eval": [
+    {
+      "x": 67.04131736526946,
+      "y": 92.00299401197604,
+      "edge": false,
+      "area": 1670,
+      "episode": "episode1",
+      "success": true
+    },
+    {
+      "x": 291.81932114882505,
+      "y": 115.46527415143603,
+      "edge": false,
+      "area": 1915,
+      "episode": "episode2",
+      "success": false
+    },
+    {
+      "x": 38.83239962651727,
+      "y": 158.38328664799252,
+      "edge": false,
+      "area": 2142,
+      "episode": "episode3",
+      "success": true
+    },
+    {
+      "x": 260.2541371158392,
+      "y": 95.08687943262412,
+      "edge": false,
+      "area": 1692,
+      "episode": "episode4",
+      "success": false
+    },
+    {
+      "x": 43.814915870850385,
+      "y": 165.57116871305138,
+      "edge": false,
+      "area": 2199,
+      "episode": "episode5",
+      "success": true
+    },
+    {
+      "x": 282.1765322158198,
+      "y": 119.50602409638554,
+      "edge": false,
+      "area": 1909,
+      "episode": "episode6",
+      "success": false
+    },
+    {
+      "x": 297.1840405904059,
+      "y": 185.75830258302582,
+      "edge": true,
+      "area": 2168,
+      "episode": "episode7",
+      "success": false
+    },
+    {
+      "x": 33.62325804901489,
+      "y": 141.74483421432004,
+      "edge": false,
+      "area": 2081,
+      "episode": "episode8",
+      "success": true
+    },
+    {
+      "x": 278.4327292696321,
+      "y": 107.62273476112027,
+      "edge": false,
+      "area": 1821,
+      "episode": "episode9",
+      "success": true
+    },
+    {
+      "x": 272.77976766698936,
+      "y": 148.0188770571152,
+      "edge": false,
+      "area": 2066,
+      "episode": "episode10",
+      "success": false
+    },
+    {
+      "x": 74.31290134267367,
+      "y": 98.3041447752481,
+      "edge": false,
+      "area": 1713,
+      "episode": "episode11",
+      "success": false
+    },
+    {
+      "x": 314.09957627118644,
+      "y": 142.98728813559322,
+      "edge": true,
+      "area": 472,
+      "episode": "episode12",
+      "success": false
+    },
+    {
+      "x": 45.242,
+      "y": 137.7185,
+      "edge": false,
+      "area": 2000,
+      "episode": "episode13",
+      "success": true
+    },
+    {
+      "x": 84.16228571428572,
+      "y": 105.95771428571429,
+      "edge": false,
+      "area": 1750,
+      "episode": "episode14",
+      "success": false
+    },
+    {
+      "x": 55.19883564711151,
+      "y": 175.45230631437528,
+      "edge": false,
+      "area": 2233,
+      "episode": "episode15",
+      "success": false
+    },
+    {
+      "x": 91.36111111111111,
+      "y": 96.60283687943263,
+      "edge": false,
+      "area": 1692,
+      "episode": "episode16",
+      "success": true
+    },
+    {
+      "x": 313.31184668989545,
+      "y": 190.02439024390245,
+      "edge": true,
+      "area": 574,
+      "episode": "episode17",
+      "success": false
+    },
+    {
+      "x": 317.1808510638298,
+      "y": 176.25531914893617,
+      "edge": true,
+      "area": 94,
+      "episode": "episode18",
+      "success": false
+    },
+    {
+      "x": 86.87223587223588,
+      "y": 151.31597051597052,
+      "edge": false,
+      "area": 2035,
+      "episode": "episode19",
+      "success": false
+    },
+    {
+      "x": 312.1742209631728,
+      "y": 107.91501416430594,
+      "edge": true,
+      "area": 706,
+      "episode": "episode20",
+      "success": false
+    },
+    {
+      "x": 284.6911349520045,
+      "y": 99.7622811970638,
+      "edge": false,
+      "area": 1771,
+      "episode": "episode21",
+      "success": false
+    },
+    {
+      "x": 14.462192816635161,
+      "y": 205.562381852552,
+      "edge": true,
+      "area": 1058,
+      "episode": "episode22",
+      "success": false
+    },
+    {
+      "x": 270.39421965317916,
+      "y": 96.50520231213874,
+      "edge": false,
+      "area": 1730,
+      "episode": "episode23",
+      "success": false
+    },
+    {
+      "x": 272.7809364548495,
+      "y": 192.6371237458194,
+      "edge": false,
+      "area": 2392,
+      "episode": "episode24",
+      "success": false
+    },
+    {
+      "x": 295.56852791878174,
+      "y": 131.88172588832487,
+      "edge": true,
+      "area": 1970,
+      "episode": "episode25",
+      "success": false
+    },
+    {
+      "x": 296.35310421286033,
+      "y": 105.3420177383592,
+      "edge": true,
+      "area": 1804,
+      "episode": "episode26",
+      "success": false
+    },
+    {
+      "x": 312.5187969924812,
+      "y": 114.56390977443608,
+      "edge": true,
+      "area": 665,
+      "episode": "episode27",
+      "success": false
+    },
+    {
+      "x": 44.13222698072805,
+      "y": 113.05353319057816,
+      "edge": false,
+      "area": 1868,
+      "episode": "episode28",
+      "success": true
+    },
+    {
+      "x": 71.55635838150289,
+      "y": 156.03660886319847,
+      "edge": false,
+      "area": 2076,
+      "episode": "episode29",
+      "success": false
+    },
+    {
+      "x": 14.592557251908397,
+      "y": 205.0229007633588,
+      "edge": true,
+      "area": 1048,
+      "episode": "episode30",
+      "success": false
+    },
+    {
+      "x": 97.54571927781014,
+      "y": 102.9784507862551,
+      "edge": false,
+      "area": 1717,
+      "episode": "episode31",
+      "success": true
+    },
+    {
+      "x": 313.1890034364261,
+      "y": 122.65807560137458,
+      "edge": true,
+      "area": 582,
+      "episode": "episode32",
+      "success": false
+    },
+    {
+      "x": 28.473596442468036,
+      "y": 166.82990550305726,
+      "edge": false,
+      "area": 1799,
+      "episode": "episode33",
+      "success": true
+    },
+    {
+      "x": 37.56702412868633,
+      "y": 187.2153708668454,
+      "edge": false,
+      "area": 2238,
+      "episode": "episode34",
+      "success": false
+    },
+    {
+      "x": 50.14565217391304,
+      "y": 112.92065217391304,
+      "edge": false,
+      "area": 1840,
+      "episode": "episode35",
+      "success": true
+    },
+    {
+      "x": 28.689937409725566,
+      "y": 142.8444872412133,
+      "edge": false,
+      "area": 2077,
+      "episode": "episode36",
+      "success": true
+    },
+    {
+      "x": 314.96096096096096,
+      "y": 162.31231231231232,
+      "edge": true,
+      "area": 333,
+      "episode": "episode37",
+      "success": false
+    },
+    {
+      "x": 20.03554502369668,
+      "y": 183.43127962085308,
+      "edge": true,
+      "area": 1266,
+      "episode": "episode38",
+      "success": false
+    },
+    {
+      "x": 305.8368107302534,
+      "y": 106.21684053651266,
+      "edge": true,
+      "area": 1342,
+      "episode": "episode39",
+      "success": false
+    },
+    {
+      "x": 305.4224196855776,
+      "y": 141.63568010936433,
+      "edge": true,
+      "area": 1463,
+      "episode": "episode40",
+      "success": true
+    },
+    {
+      "x": 310.19114688128775,
+      "y": 178.28068410462777,
+      "edge": true,
+      "area": 994,
+      "episode": "episode41",
+      "success": false
+    },
+    {
+      "x": 294.2133971291866,
+      "y": 148.45693779904306,
+      "edge": true,
+      "area": 2090,
+      "episode": "episode42",
+      "success": false
+    },
+    {
+      "x": 66.77687861271676,
+      "y": 99.36300578034682,
+      "edge": false,
+      "area": 1730,
+      "episode": "episode43",
+      "success": true
+    },
+    {
+      "x": 87.7129963898917,
+      "y": 92.30264741275572,
+      "edge": false,
+      "area": 1662,
+      "episode": "episode44",
+      "success": true
+    },
+    {
+      "x": 85.52497551420176,
+      "y": 153.8790401567091,
+      "edge": false,
+      "area": 2042,
+      "episode": "episode45",
+      "success": true
+    },
+    {
+      "x": 49.3698175787728,
+      "y": 194.78648424543948,
+      "edge": false,
+      "area": 2412,
+      "episode": "episode46",
+      "success": false
+    },
+    {
+      "x": 316.1933701657459,
+      "y": 190.86740331491714,
+      "edge": true,
+      "area": 181,
+      "episode": "episode47",
+      "success": false
+    },
+    {
+      "x": 63.61029061457837,
+      "y": 157.054787994283,
+      "edge": false,
+      "area": 2099,
+      "episode": "episode48",
+      "success": false
+    },
+    {
+      "x": 46.323101777059776,
+      "y": 118.61012385568121,
+      "edge": false,
+      "area": 1857,
+      "episode": "episode49",
+      "success": false
+    },
+    {
+      "x": 21.883810572687224,
+      "y": 141.69052863436124,
+      "edge": true,
+      "area": 1816,
+      "episode": "episode50",
+      "success": false
+    },
+    {
+      "x": 36.103334899013625,
+      "y": 176.3823391263504,
+      "edge": false,
+      "area": 2129,
+      "episode": "episode51",
+      "success": true
+    },
+    {
+      "x": 66.11936036550543,
+      "y": 103.96744717304398,
+      "edge": false,
+      "area": 1751,
+      "episode": "episode52",
+      "success": false
+    },
+    {
+      "x": 313.7437379576108,
+      "y": 204.28323699421966,
+      "edge": true,
+      "area": 519,
+      "episode": "episode53",
+      "success": false
+    },
+    {
+      "x": 37.40844378988709,
+      "y": 139.279823269514,
+      "edge": false,
+      "area": 2037,
+      "episode": "episode54",
+      "success": true
+    },
+    {
+      "x": 63.155879180151025,
+      "y": 119.00161812297735,
+      "edge": false,
+      "area": 1854,
+      "episode": "episode55",
+      "success": true
+    },
+    {
+      "x": 80.00281214848144,
+      "y": 109.97187851518561,
+      "edge": false,
+      "area": 1778,
+      "episode": "episode56",
+      "success": false
+    },
+    {
+      "x": 302.88183421516754,
+      "y": 146.74074074074073,
+      "edge": true,
+      "area": 1701,
+      "episode": "episode57",
+      "success": false
+    },
+    {
+      "x": 22.42773294203962,
+      "y": 162.6742479823918,
+      "edge": false,
+      "area": 1363,
+      "episode": "episode58",
+      "success": false
+    },
+    {
+      "x": 38.05956416464891,
+      "y": 141.89830508474577,
+      "edge": false,
+      "area": 2065,
+      "episode": "episode59",
+      "success": false
+    },
+    {
+      "x": 309.9209157127992,
+      "y": 109.89386056191468,
+      "edge": true,
+      "area": 961,
+      "episode": "episode60",
+      "success": false
+    },
+    {
+      "x": 78.39988392338944,
+      "y": 101.48520023215322,
+      "edge": false,
+      "area": 1723,
+      "episode": "episode61",
+      "success": false
+    },
+    {
+      "x": 39.329827915869984,
+      "y": 146.38623326959848,
+      "edge": false,
+      "area": 2092,
+      "episode": "episode62",
+      "success": false
+    },
+    {
+      "x": 94.76085761407367,
+      "y": 120.8191313908741,
+      "edge": false,
+      "area": 1819,
+      "episode": "episode63",
+      "success": true
+    },
+    {
+      "x": 90.46684782608696,
+      "y": 124.92934782608695,
+      "edge": false,
+      "area": 1840,
+      "episode": "episode64",
+      "success": false
+    },
+    {
+      "x": 270.00354071826,
+      "y": 135.2129489124937,
+      "edge": false,
+      "area": 1977,
+      "episode": "episode65",
+      "success": true
+    },
+    {
+      "x": 26.350670241286863,
+      "y": 107.4343163538874,
+      "edge": true,
+      "area": 1865,
+      "episode": "episode66",
+      "success": false
+    },
+    {
+      "x": 31.512915129151292,
+      "y": 114.921454928835,
+      "edge": false,
+      "area": 1897,
+      "episode": "episode67",
+      "success": false
+    },
+    {
+      "x": 298.0564245810056,
+      "y": 110.3486033519553,
+      "edge": true,
+      "area": 1790,
+      "episode": "episode68",
+      "success": false
+    },
+    {
+      "x": 298.22173702086366,
+      "y": 175.9247937894226,
+      "edge": true,
+      "area": 2061,
+      "episode": "episode69",
+      "success": true
+    },
+    {
+      "x": 257.9174832387829,
+      "y": 129.5966993295513,
+      "edge": false,
+      "area": 1939,
+      "episode": "episode70",
+      "success": true
+    },
+    {
+      "x": 88.3638141809291,
+      "y": 152.2718826405868,
+      "edge": false,
+      "area": 2045,
+      "episode": "episode71",
+      "success": true
+    },
+    {
+      "x": 300.7375127420999,
+      "y": 198.11467889908258,
+      "edge": true,
+      "area": 1962,
+      "episode": "episode72",
+      "success": false
+    },
+    {
+      "x": 20.618620302860347,
+      "y": 132.4733595064498,
+      "edge": true,
+      "area": 1783,
+      "episode": "episode73",
+      "success": false
+    },
+    {
+      "x": 82.91160757649344,
+      "y": 156.45021855269547,
+      "edge": false,
+      "area": 2059,
+      "episode": "episode74",
+      "success": false
+    },
+    {
+      "x": 22.25283522348232,
+      "y": 155.66377585056705,
+      "edge": false,
+      "area": 1499,
+      "episode": "episode75",
+      "success": false
+    },
+    {
+      "x": 84.36902705814623,
+      "y": 102.61658031088083,
+      "edge": false,
+      "area": 1737,
+      "episode": "episode76",
+      "success": true
+    },
+    {
+      "x": 91.6207259337191,
+      "y": 131.56759600210415,
+      "edge": false,
+      "area": 1901,
+      "episode": "episode77",
+      "success": false
+    },
+    {
+      "x": 66.703125,
+      "y": 110.73772321428571,
+      "edge": false,
+      "area": 1792,
+      "episode": "episode78",
+      "success": false
+    },
+    {
+      "x": 50.34126646833829,
+      "y": 188.29026774330643,
+      "edge": false,
+      "area": 2353,
+      "episode": "episode79",
+      "success": false
+    },
+    {
+      "x": 65.35581140350877,
+      "y": 113.25548245614036,
+      "edge": false,
+      "area": 1824,
+      "episode": "episode80",
+      "success": false
+    },
+    {
+      "x": 309.60320641282567,
+      "y": 107.25751503006012,
+      "edge": true,
+      "area": 998,
+      "episode": "episode81",
+      "success": false
+    },
+    {
+      "x": 318.5,
+      "y": 205.5,
+      "edge": true,
+      "area": 8,
+      "episode": "episode82",
+      "success": false
+    },
+    {
+      "x": 90.76777493606139,
+      "y": 136.5539641943734,
+      "edge": false,
+      "area": 1955,
+      "episode": "episode83",
+      "success": false
+    },
+    {
+      "x": 286.7916849015317,
+      "y": 175.14048140043764,
+      "edge": false,
+      "area": 2285,
+      "episode": "episode84",
+      "success": false
+    },
+    {
+      "x": 66.94408852649971,
+      "y": 98.05299941758882,
+      "edge": false,
+      "area": 1717,
+      "episode": "episode85",
+      "success": true
+    },
+    {
+      "x": 303.2781136638452,
+      "y": 157.75574365175333,
+      "edge": true,
+      "area": 1654,
+      "episode": "episode86",
+      "success": false
+    },
+    {
+      "x": 39.71265025758443,
+      "y": 96.31654264453348,
+      "edge": false,
+      "area": 1747,
+      "episode": "episode87",
+      "success": false
+    },
+    {
+      "x": 294.08488196885986,
+      "y": 133.4299347061778,
+      "edge": true,
+      "area": 1991,
+      "episode": "episode88",
+      "success": false
+    },
+    {
+      "x": 51.62086371284352,
+      "y": 101.20471116096466,
+      "edge": false,
+      "area": 1783,
+      "episode": "episode89",
+      "success": true
+    },
+    {
+      "x": 274.2548125633232,
+      "y": 133.13019250253294,
+      "edge": false,
+      "area": 1974,
+      "episode": "episode90",
+      "success": true
+    },
+    {
+      "x": 290.80849825378345,
+      "y": 89.90454016298021,
+      "edge": false,
+      "area": 1718,
+      "episode": "episode91",
+      "success": false
+    },
+    {
+      "x": 66.43882978723404,
+      "y": 122.69946808510639,
+      "edge": false,
+      "area": 1880,
+      "episode": "episode92",
+      "success": true
+    },
+    {
+      "x": 295.59730150492993,
+      "y": 123.26414115204982,
+      "edge": true,
+      "area": 1927,
+      "episode": "episode93",
+      "success": false
+    },
+    {
+      "x": 84.4595062797748,
+      "y": 194.8869640537029,
+      "edge": false,
+      "area": 2309,
+      "episode": "episode94",
+      "success": false
+    },
+    {
+      "x": 270.22479338842976,
+      "y": 110.40881542699725,
+      "edge": false,
+      "area": 1815,
+      "episode": "episode95",
+      "success": false
+    },
+    {
+      "x": 61.493529674252564,
+      "y": 172.75189647478805,
+      "edge": false,
+      "area": 2241,
+      "episode": "episode96",
+      "success": false
+    },
+    {
+      "x": 76.62424242424242,
+      "y": 189.3991341991342,
+      "edge": false,
+      "area": 2310,
+      "episode": "episode97",
+      "success": false
+    },
+    {
+      "x": 80.35791015625,
+      "y": 155.94091796875,
+      "edge": false,
+      "area": 2048,
+      "episode": "episode98",
+      "success": true
+    },
+    {
+      "x": 35.15774323546344,
+      "y": 91.92285549798503,
+      "edge": false,
+      "area": 1737,
+      "episode": "episode99",
+      "success": false
+    }
+  ],
+  "train": [
+    {
+      "x": 275.53545734840696,
+      "y": 132.5940390544707,
+      "edge": false,
+      "area": 1946,
+      "episode": 0,
+      "arm": "right"
+    },
+    {
+      "x": 297.87796414112205,
+      "y": 104.1497975708502,
+      "edge": true,
+      "area": 1729,
+      "episode": 1,
+      "arm": "right"
+    },
+    {
+      "x": 311.85368956743,
+      "y": 183.60432569974554,
+      "edge": true,
+      "area": 786,
+      "episode": 2,
+      "arm": "right"
+    },
+    {
+      "x": 303.2771010962241,
+      "y": 153.67661388550547,
+      "edge": true,
+      "area": 1642,
+      "episode": 3,
+      "arm": "right"
+    },
+    {
+      "x": 82.93587617468215,
+      "y": 120.39800995024876,
+      "edge": false,
+      "area": 1809,
+      "episode": 4,
+      "arm": "left"
+    },
+    {
+      "x": 296.19847328244276,
+      "y": 166.90362595419847,
+      "edge": true,
+      "area": 2096,
+      "episode": 5,
+      "arm": "right"
+    },
+    {
+      "x": 38.574457831325304,
+      "y": 148.4877108433735,
+      "edge": false,
+      "area": 2075,
+      "episode": 6,
+      "arm": "left"
+    },
+    {
+      "x": 69.41796287004516,
+      "y": 146.99799297541395,
+      "edge": false,
+      "area": 1993,
+      "episode": 7,
+      "arm": "left"
+    },
+    {
+      "x": 281.42552026286967,
+      "y": 112.013143483023,
+      "edge": false,
+      "area": 1826,
+      "episode": 8,
+      "arm": "right"
+    },
+    {
+      "x": 310.6771653543307,
+      "y": 117.84926884139483,
+      "edge": true,
+      "area": 889,
+      "episode": 9,
+      "arm": "right"
+    },
+    {
+      "x": 82.88961646398504,
+      "y": 172.46772684752105,
+      "edge": false,
+      "area": 2138,
+      "episode": 10,
+      "arm": "left"
+    },
+    {
+      "x": 311.127380952381,
+      "y": 117.54404761904762,
+      "edge": true,
+      "area": 840,
+      "episode": 11,
+      "arm": "right"
+    },
+    {
+      "x": 47.098986285032794,
+      "y": 90.19618366129994,
+      "edge": false,
+      "area": 1677,
+      "episode": 12,
+      "arm": "left"
+    },
+    {
+      "x": 296.1297353399066,
+      "y": 131.15101193565127,
+      "edge": true,
+      "area": 1927,
+      "episode": 13,
+      "arm": "right"
+    },
+    {
+      "x": 311.05191873589166,
+      "y": 179.84650112866817,
+      "edge": true,
+      "area": 886,
+      "episode": 14,
+      "arm": "right"
+    },
+    {
+      "x": 48.68181818181818,
+      "y": 193.04885301614274,
+      "edge": false,
+      "area": 2354,
+      "episode": 15,
+      "arm": "left"
+    },
+    {
+      "x": 41.980830670926515,
+      "y": 122.14110756123536,
+      "edge": false,
+      "area": 1878,
+      "episode": 16,
+      "arm": "left"
+    },
+    {
+      "x": 295.42606232294617,
+      "y": 101.05949008498584,
+      "edge": true,
+      "area": 1765,
+      "episode": 17,
+      "arm": "right"
+    },
+    {
+      "x": 81.35545722713864,
+      "y": 156.99311701081612,
+      "edge": false,
+      "area": 2034,
+      "episode": 18,
+      "arm": "left"
+    },
+    {
+      "x": 86.41732629727353,
+      "y": 197.36147757255938,
+      "edge": false,
+      "area": 2274,
+      "episode": 19,
+      "arm": "left"
+    },
+    {
+      "x": 91.46697566628042,
+      "y": 111.22595596755504,
+      "edge": false,
+      "area": 1726,
+      "episode": 20,
+      "arm": "left"
+    },
+    {
+      "x": 84.25462392108508,
+      "y": 91.8711467324291,
+      "edge": false,
+      "area": 1622,
+      "episode": 21,
+      "arm": "left"
+    },
+    {
+      "x": 285.1734317343173,
+      "y": 122.24248813916711,
+      "edge": false,
+      "area": 1897,
+      "episode": 22,
+      "arm": "right"
+    },
+    {
+      "x": 62.481337857489095,
+      "y": 153.41056713523994,
+      "edge": false,
+      "area": 2063,
+      "episode": 23,
+      "arm": "left"
+    },
+    {
+      "x": 292.3304647160069,
+      "y": 97.19391853126793,
+      "edge": false,
+      "area": 1743,
+      "episode": 24,
+      "arm": "right"
+    },
+    {
+      "x": 75.29151459854015,
+      "y": 180.06295620437956,
+      "edge": false,
+      "area": 2192,
+      "episode": 25,
+      "arm": "left"
+    },
+    {
+      "x": 263.17838405036724,
+      "y": 133.08447009443861,
+      "edge": false,
+      "area": 1906,
+      "episode": 26,
+      "arm": "right"
+    },
+    {
+      "x": 39.339810017271155,
+      "y": 192.603195164076,
+      "edge": false,
+      "area": 2316,
+      "episode": 27,
+      "arm": "left"
+    },
+    {
+      "x": 309.3349191246432,
+      "y": 117.7754519505233,
+      "edge": true,
+      "area": 1051,
+      "episode": 28,
+      "arm": "right"
+    },
+    {
+      "x": 316.11538461538464,
+      "y": 150.67307692307693,
+      "edge": true,
+      "area": 208,
+      "episode": 29,
+      "arm": "right"
+    },
+    {
+      "x": 313.21934369602764,
+      "y": 112.61830742659758,
+      "edge": true,
+      "area": 579,
+      "episode": 30,
+      "arm": "right"
+    },
+    {
+      "x": 310.95581395348836,
+      "y": 114.37325581395349,
+      "edge": true,
+      "area": 860,
+      "episode": 31,
+      "arm": "right"
+    },
+    {
+      "x": 280.47305699481865,
+      "y": 128.58290155440415,
+      "edge": false,
+      "area": 1930,
+      "episode": 32,
+      "arm": "right"
+    },
+    {
+      "x": 70.80244173140954,
+      "y": 116.60876803551609,
+      "edge": false,
+      "area": 1802,
+      "episode": 33,
+      "arm": "left"
+    },
+    {
+      "x": 81.32641700404858,
+      "y": 146.13967611336034,
+      "edge": false,
+      "area": 1976,
+      "episode": 34,
+      "arm": "left"
+    },
+    {
+      "x": 56.715631929046566,
+      "y": 115.59811529933481,
+      "edge": false,
+      "area": 1804,
+      "episode": 35,
+      "arm": "left"
+    },
+    {
+      "x": 301.04739613809244,
+      "y": 125.5430076067876,
+      "edge": true,
+      "area": 1709,
+      "episode": 36,
+      "arm": "right"
+    },
+    {
+      "x": 35.62572789835892,
+      "y": 122.3070407623081,
+      "edge": false,
+      "area": 1889,
+      "episode": 37,
+      "arm": "left"
+    },
+    {
+      "x": 91.4892561983471,
+      "y": 124.43305785123967,
+      "edge": false,
+      "area": 1815,
+      "episode": 38,
+      "arm": "left"
+    },
+    {
+      "x": 286.0808035714286,
+      "y": 173.77455357142858,
+      "edge": false,
+      "area": 2240,
+      "episode": 39,
+      "arm": "right"
+    },
+    {
+      "x": 294.2926596758818,
+      "y": 153.0576739752145,
+      "edge": true,
+      "area": 2098,
+      "episode": 40,
+      "arm": "right"
+    },
+    {
+      "x": 297.618043350908,
+      "y": 98.7311072056239,
+      "edge": true,
+      "area": 1707,
+      "episode": 41,
+      "arm": "right"
+    },
+    {
+      "x": 91.92655367231639,
+      "y": 116.21073446327684,
+      "edge": false,
+      "area": 1770,
+      "episode": 42,
+      "arm": "left"
+    },
+    {
+      "x": 301.06536636794937,
+      "y": 180.9304164470216,
+      "edge": true,
+      "area": 1897,
+      "episode": 43,
+      "arm": "right"
+    },
+    {
+      "x": 315.9271844660194,
+      "y": 186.7378640776699,
+      "edge": true,
+      "area": 206,
+      "episode": 44,
+      "arm": "right"
+    },
+    {
+      "x": 25.610966057441253,
+      "y": 119.06318537859008,
+      "edge": true,
+      "area": 1915,
+      "episode": 45,
+      "arm": "left"
+    },
+    {
+      "x": 294.17180365296804,
+      "y": 97.57420091324201,
+      "edge": true,
+      "area": 1752,
+      "episode": 46,
+      "arm": "right"
+    },
+    {
+      "x": 298.0102948058025,
+      "y": 193.65044454843238,
+      "edge": true,
+      "area": 2137,
+      "episode": 47,
+      "arm": "right"
+    },
+    {
+      "x": 36.90598690364827,
+      "y": 182.85874649204865,
+      "edge": false,
+      "area": 2138,
+      "episode": 48,
+      "arm": "left"
+    },
+    {
+      "x": 307.88907705334464,
+      "y": 117.7485182049111,
+      "edge": true,
+      "area": 1181,
+      "episode": 49,
+      "arm": "right"
+    }
+  ],
+  "groups": {
+    "left_visible": [
+      24,
+      53
+    ],
+    "right_visible": [
+      4,
+      14
+    ],
+    "right_edge": [
+      2,
+      26
+    ],
+    "left_edge": [
+      0,
+      6
+    ]
+  }
+}

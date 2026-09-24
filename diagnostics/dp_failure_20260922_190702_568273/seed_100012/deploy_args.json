@@ -1,0 +1,11 @@
+{
+  "policy_name": "DP",
+  "task_name": "place_empty_cup",
+  "task_config": "dp_test_demo",
+  "ckpt_setting": "dp_test_demo",
+  "seed": 0,
+  "instruction_type": "unseen",
+  "expert_data_num": 50,
+  "checkpoint_num": 1000,
+  "head_camera_type": "D435"
+}

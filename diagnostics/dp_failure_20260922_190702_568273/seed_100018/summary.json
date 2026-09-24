@@ -1,0 +1,121 @@
+{
+  "status": "completed",
+  "error": null,
+  "eval_seed": 100018,
+  "expert_success_before_close": true,
+  "policy_success": true,
+  "nominal_working_arm_from_initial_cup_x": "left",
+  "executed_take_action_calls": 138,
+  "policy_predictions": 23,
+  "policy_get_obs_calls": 162,
+  "head_image_hash_changes": 138,
+  "per_arm": {
+    "left": {
+      "topp_calls": 138,
+      "topp_exceptions": 0,
+      "topp_zero_sample_returns": 0,
+      "topp_one_sample_returns": 0,
+      "actions_without_arm_command": 0,
+      "max_target_minus_cmd_rad": 0.16549837589263916,
+      "max_target_minus_real_rad": 0.1703476905822754,
+      "max_real_motion_per_action_rad": 0.1656097173690796,
+      "max_tracking_error_rad": 0.006400883197784424
+    },
+    "right": {
+      "topp_calls": 138,
+      "topp_exceptions": 1,
+      "topp_zero_sample_returns": 0,
+      "topp_one_sample_returns": 0,
+      "actions_without_arm_command": 1,
+      "max_target_minus_cmd_rad": 0.008587816875660792,
+      "max_target_minus_real_rad": 0.01047712545550894,
+      "max_real_motion_per_action_rad": 0.014022508636116982,
+      "max_tracking_error_rad": 0.003754427976673469
+    }
+  },
+  "final_state": {
+    "left": {
+      "q_cmd": [
+        -0.57086580991745,
+        2.2141716480255127,
+        1.8524458408355713,
+        -1.1879361867904663,
+        0.0858672559261322,
+        -0.5422849655151367
+      ],
+      "q_real": [
+        -0.5746445655822754,
+        2.216381788253784,
+        1.853676676750183,
+        -1.1880931854248047,
+        0.08587968349456787,
+        -0.542404294013977
+      ],
+      "gripper_cmd_normalized": 0.8006260471959268,
+      "gripper_real_joint_positions": [
+        0.025430191308259964,
+        0.025433233007788658
+      ],
+      "tracking_error_max_rad": 0.0037787556648254395
+    },
+    "right": {
+      "q_cmd": [
+        -0.001526525942608714,
+        0.0003702549438457936,
+        0.0001794418931240216,
+        -0.0013645269209519029,
+        -0.0002599616127554327,
+        -0.0003943660412915051
+      ],
+      "q_real": [
+        -0.0018222465878352523,
+        0.0003788729081861675,
+        0.00015003977750893682,
+        -0.001989257987588644,
+        -0.00032431664294563234,
+        -0.0003543671627994627
+      ],
+      "gripper_cmd_normalized": 0.9980537380490985,
+      "gripper_real_joint_positions": [
+        0.044971875846385956,
+        0.04497242346405983
+      ],
+      "tracking_error_max_rad": 0.0006247310666367412
+    },
+    "cup_pose": [
+      -0.01706557348370552,
+      -0.04810270667076111,
+      0.7490682005882263,
+      0.6146348118782043,
+      0.6439972519874573,
+      0.32587823271751404,
+      0.31826886534690857
+    ],
+    "coaster_pose": [
+      0.0020047971047461033,
+      -0.06802517175674438,
+      0.7409999966621399,
+      0.5,
+      0.5,
+      0.5,
+      0.5
+    ],
+    "placement": {
+      "cup_functional_point": [
+        -0.01706557348370552,
+        -0.04810270667076111,
+        0.7490682005882263
+      ],
+      "coaster_functional_point": [
+        0.0052511184476315975,
+        -0.06802517175674438,
+        0.7409999966621399
+      ],
+      "xy_error_m": 0.029915536997694524,
+      "z_error_m": 0.008068203926086426,
+      "left_gripper_open": true,
+      "right_gripper_open": true
+    }
+  },
+  "note": "Counts are observations, not a root-cause verdict. Idle-arm TOPP errors must not be equated with task failure."
+}

@@ -1,0 +1,165 @@
+[32mRender Well[0m
+============= Config =============
+
+[95mMessy Table:[0m False
+[95mRandom Background:[0m False
+[95mRandom Light:[0m False
+[95mRandom Table Height:[0m 0
+[95mRandom Head Camera Distance:[0m 0
+[94mHead Camera Config:[0m D435, True
+[94mWrist Camera Config:[0m D435, True
+[94mEmbodiment Config:[0m aloha-agilex
+
+==================================
+[34mTask Name: place_empty_cup[0m
+[34mPolicy Name: DP[0m
+Warp DeprecationWarning: The symbol `warp.torch.device_from_torch` will soon be removed from the public API. Use `warp.device_from_torch` instead.
+[DIAG] seed=100018 expert_success=True
+step: [92m1 / 500[0m
+[DIAG] seed=100018 action=1 set_calls L/R=20/8 real_motion L/R=0.00101/0.000446 rad success=False
+step: [92m2 / 500[0m
+step: [92m3 / 500[0m
+step: [92m4 / 500[0m
+step: [92m5 / 500[0m
+step: [92m6 / 500[0m
+step: [92m7 / 500[0m
+step: [92m8 / 500[0m
+step: [92m9 / 500[0m
+step: [92m10 / 500[0m
+step: [92m11 / 500[0m
+step: [92m12 / 500[0m
+step: [92m13 / 500[0m
+step: [92m14 / 500[0m
+step: [92m15 / 500[0m
+step: [92m16 / 500[0m
+step: [92m17 / 500[0m
+step: [92m18 / 500[0m
+step: [92m19 / 500[0m
+step: [92m20 / 500[0m
+step: [92m21 / 500[0m
+step: [92m22 / 500[0m
+step: [92m23 / 500[0m
+step: [92m24 / 500[0m
+step: [92m25 / 500[0m
+step: [92m26 / 500[0m
+step: [92m27 / 500[0m
+step: [92m28 / 500[0m
+step: [92m29 / 500[0m
+step: [92m30 / 500[0m
+step: [92m31 / 500[0m
+step: [92m32 / 500[0m
+step: [92m33 / 500[0m
+step: [92m34 / 500[0m
+step: [92m35 / 500[0m
+step: [92m36 / 500[0m
+step: [92m37 / 500[0m
+step: [92m38 / 500[0m
+step: [92m39 / 500[0m
+step: [92m40 / 500[0m
+step: [92m41 / 500[0m
+step: [92m42 / 500[0m
+step: [92m43 / 500[0m
+step: [92m44 / 500[0m
+step: [92m45 / 500[0m
+step: [92m46 / 500[0m
+step: [92m47 / 500[0m
+step: [92m48 / 500[0m
+step: [92m49 / 500[0m
+step: [92m50 / 500[0m
+[DIAG] seed=100018 action=50 set_calls L/R=139/20 real_motion L/R=0.078/0.00381 rad success=False
+step: [92m51 / 500[0m
+step: [92m52 / 500[0m
+step: [92m53 / 500[0m
+step: [92m54 / 500[0m
+step: [92m55 / 500[0m
+step: [92m56 / 500[0m
+step: [92m57 / 500[0m
+step: [92m58 / 500[0m
+step: [92m59 / 500[0m
+step: [92m60 / 500[0m
+step: [92m61 / 500[0m
+step: [92m62 / 500[0m
+step: [92m63 / 500[0m
+step: [92m64 / 500[0m
+step: [92m65 / 500[0m
+step: [92m66 / 500[0m
+step: [92m67 / 500[0m
+step: [92m68 / 500[0m
+step: [92m69 / 500[0m
+step: [92m70 / 500[0m
+step: [92m71 / 500[0m
+step: [92m72 / 500[0m
+step: [92m73 / 500[0m
+step: [92m74 / 500[0m
+step: [92m75 / 500[0m
+step: [92m76 / 500[0m
+step: [92m77 / 500[0m
+step: [92m78 / 500[0m
+step: [92m79 / 500[0m
+step: [92m80 / 500[0m
+step: [92m81 / 500[0m
+step: [92m82 / 500[0m
+step: [92m83 / 500[0m
+step: [92m84 / 500[0m
+step: [92m85 / 500[0m
+step: [92m86 / 500[0m
+step: [92m87 / 500[0m
+step: [92m88 / 500[0m
+step: [92m89 / 500[0m
+step: [92m90 / 500[0m
+step: [92m91 / 500[0m
+step: [92m92 / 500[0m
+step: [92m93 / 500[0m
+step: [92m94 / 500[0m
+step: [92m95 / 500[0m
+step: [92m96 / 500[0m
+step: [92m97 / 500[0m
+step: [92m98 / 500[0m
+step: [92m99 / 500[0m
+step: [92m100 / 500[0m
+[DIAG] seed=100018 action=100 set_calls L/R=67/16 real_motion L/R=0.0185/0.00267 rad success=False
+step: [92m101 / 500[0m
+step: [92m102 / 500[0m
+step: [92m103 / 500[0m
+step: [92m104 / 500[0m
+step: [92m105 / 500[0m
+step: [92m106 / 500[0m
+step: [92m107 / 500[0m
+step: [92m108 / 500[0m
+step: [92m109 / 500[0m
+step: [92m110 / 500[0m
+step: [92m111 / 500[0m
+step: [92m112 / 500[0m
+step: [92m113 / 500[0m
+step: [92m114 / 500[0m
+step: [92m115 / 500[0m
+step: [92m116 / 500[0m
+step: [92m117 / 500[0m
+step: [92m118 / 500[0m
+step: [92m119 / 500[0m
+step: [92m120 / 500[0m
+step: [92m121 / 500[0m
+step: [92m122 / 500[0m
+step: [92m123 / 500[0m
+step: [92m124 / 500[0m
+step: [92m125 / 500[0m
+step: [92m126 / 500[0m
+step: [92m127 / 500[0m
+step: [92m128 / 500[0m
+step: [92m129 / 500[0m
+step: [92m130 / 500[0m
+step: [92m131 / 500[0m
+step: [92m132 / 500[0m
+step: [92m133 / 500[0m
+step: [92m134 / 500[0m
+step: [92m135 / 500[0m
+step: [92m136 / 500[0m
+step: [92m137 / 500[0m
+step: [92m138 / 500[0m
+[DIAG] seed=100018 action=138 set_calls L/R=25/12 real_motion L/R=0.00251/0.00124 rad success=True
+[92mSuccess![0m
+[93mplace_empty_cup[0m | [94mDP[0m | [92mdp_test_demo[0m | [91mdp_test_demo[0m
+Success rate: [96m1/1[0m => [95m100.0%[0m, current seed: [90m100018[0m
+
+Data has been saved to /home/dyl216/RoboTwin/diagnostics/dp_failure_20260922_190702_568273/seed_100018/eval/_result.txt
+[DIAG] saved /home/dyl216/RoboTwin/diagnostics/dp_failure_20260922_190702_568273/seed_100018/summary.json status=completed

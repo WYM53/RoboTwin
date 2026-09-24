@@ -1,0 +1,164 @@
+[
+  {
+    "status": "stopped_for_diagnostic_condition",
+    "error": "达到抓取诊断最大 action 数；这不是任务执行错误。",
+    "eval_seed": 100005,
+    "grasp_geometry_summary": {
+      "min_right_tcp_to_contact0_m": 0.01638813531350808,
+      "min_right_tcp_to_cup_center_m": 0.09220954468448878,
+      "initial_cup_z_m": 0.7399791479110718,
+      "max_cup_z_m": 0.7486462593078613,
+      "max_cup_lift_m": 0.00866711139678955,
+      "first_right_gripper_close_step_lt_0p2": null,
+      "first_cup_gripper_contact_step": 66,
+      "first_cup_lift_5mm_step": 100
+    },
+    "expert_success_before_close": true,
+    "policy_success": false,
+    "nominal_working_arm_from_initial_cup_x": "right",
+    "executed_take_action_calls": 120,
+    "policy_predictions": 41,
+    "policy_get_obs_calls": 161,
+    "head_image_hash_changes": 120,
+    "per_arm": {
+      "left": {
+        "topp_calls": 120,
+        "topp_exceptions": 0,
+        "topp_zero_sample_returns": 120,
+        "topp_one_sample_returns": 0,
+        "actions_without_arm_command": 120,
+        "max_target_minus_cmd_rad": 0.0,
+        "max_target_minus_real_rad": 9.0709991127369e-06,
+        "max_real_motion_per_action_rad": 2.8936904072907055e-07,
+        "max_tracking_error_rad": 9.0709991127369e-06
+      },
+      "right": {
+        "topp_calls": 120,
+        "topp_exceptions": 0,
+        "topp_zero_sample_returns": 0,
+        "topp_one_sample_returns": 0,
+        "actions_without_arm_command": 0,
+        "max_target_minus_cmd_rad": 0.11324191093444824,
+        "max_target_minus_real_rad": 0.11809158325195312,
+        "max_real_motion_per_action_rad": 0.113350510597229,
+        "max_tracking_error_rad": 0.006464552134275436
+      }
+    },
+    "final_state": {
+      "left": {
+        "q_cmd": [
+          0.0,
+          0.0,
+          0.0,
+          0.0,
+          0.0,
+          0.0
+        ],
+        "q_real": [
+          2.5021360983146224e-08,
+          -3.5397897590883076e-06,
+          9.070849046111107e-06,
+          2.17591509255044e-08,
+          7.779462407597748e-09,
+          3.6471590192377334e-08
+        ],
+        "gripper_cmd_normalized": 1.0,
+        "gripper_real_joint_positions": [
+          0.044993143528699875,
+          0.044993069022893906
+        ],
+        "tracking_error_max_rad": 9.070849046111107e-06
+      },
+      "right": {
+        "q_cmd": [
+          0.31534188985824585,
+          2.2213640213012695,
+          2.066009044647217,
+          -1.4073501825332642,
+          -0.07001820206642151,
+          0.33896759152412415
+        ],
+        "q_real": [
+          0.31057924032211304,
+          2.21982479095459,
+          2.0663390159606934,
+          -1.40676748752594,
+          -0.06986809521913528,
+          0.33951541781425476
+        ],
+        "gripper_cmd_normalized": 0.9269276857376099,
+        "gripper_real_joint_positions": [
+          0.040727850049734116,
+          0.04072410985827446
+        ],
+        "tracking_error_max_rad": 0.0047626495361328125
+      },
+      "cup_pose": [
+        0.17291925847530365,
+        0.025712020695209503,
+        0.7399945855140686,
+        0.5265027284622192,
+        0.5254396796226501,
+        0.47263020277023315,
+        0.472576767206192
+      ],
+      "coaster_pose": [
+        0.028971994295716286,
+        -0.04339589923620224,
+        0.7409999966621399,
+        0.5,
+        0.5,
+        0.5,
+        0.5
+      ],
+      "grasp_geometry": {
+        "cup_center": [
+          0.17291925847530365,
+          0.025712020695209503,
+          0.7399945855140686
+        ],
+        "cup_contact0": [
+          0.21302251517772675,
+          0.021502450108528137,
+          0.8236673474311829
+        ],
+        "left_tcp": [
+          -0.30032389259496334,
+          -0.19382874762903696,
+          0.9420049183024495
+        ],
+        "right_tcp": [
+          0.15210725193823976,
+          -0.007106965174270102,
+          0.8946941194584332
+        ],
+        "left_tcp_to_cup_center_m": 0.5594331090886455,
+        "right_tcp_to_cup_center_m": 0.1595060226204751,
+        "left_tcp_to_contact0_m": 0.569118476041616,
+        "right_tcp_to_contact0_m": 0.09784666720420579,
+        "cup_z_m": 0.7399945855140686,
+        "left_gripper_cmd": 1.0,
+        "right_gripper_cmd": 0.9269276857376099,
+        "cup_gripper_contact_count": 0
+      },
+      "placement": {
+        "cup_functional_point": [
+          0.17291925847530365,
+          0.025712020695209503,
+          0.7399945855140686
+        ],
+        "coaster_functional_point": [
+          0.032218314707279205,
+          -0.04339589923620224,
+          0.7409999966621399
+        ],
+        "xy_error_m": 0.15675669100379477,
+        "z_error_m": 0.001005411148071289,
+        "left_gripper_open": true,
+        "right_gripper_open": true
+      }
+    },
+    "note": "Counts are observations, not a root-cause verdict. Idle-arm TOPP errors must not be equated with task failure.",
+    "returncode": 2
+  }
+]
